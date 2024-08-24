@@ -5,7 +5,7 @@
   -->
   
   <div>
-  <p>I'm a Computer Science student at the University of Wisconsin-Madison. I enjoy working on unique projects and learning new things, and I have a wide range of professional, personal, and academic experiences. I'm looking to expand my       skillset and gain more professional experience to start my career as an aspiring Software Engineer.
+  <p>I'm a senior at the University of Wisconsin-Madison majoring in Computer Science. I enjoy working on unique projects and learning new things, and I have a wide range of professional, personal, and academic experiences. I'm looking to expand my skillset and gain more professional experience to start my career as an aspiring Software Engineer.
   </p>
     
   Feel free to take a look at my projects below!
