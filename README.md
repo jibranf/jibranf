@@ -8,7 +8,8 @@
   <p>I'm a senior at the University of Wisconsin-Madison majoring in Computer Science. I enjoy working on unique projects and learning new things, and I have a wide range of professional, personal, and academic experiences. I'm looking to expand my skillset and gain more professional experience to start my career as an aspiring Software Engineer.
   </p>
     
-  Feel free to take a look at my projects below!
+  <p>I'm currently working on a real time physics engine for 2D particle simulation 💥<br>Feel free to take a look at it along with my other projects below!</p>
+  
   
   - 💬 Connect with me on <a href = "https://www.linkedin.com/in/jibran-fakhruddin/">Linkedin</a>.
   - 📫 If you'd like to reach out to me you can via <a href="mailto:jibran.fakhruddin@gmail.com">email</a>.
