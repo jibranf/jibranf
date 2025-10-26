@@ -5,10 +5,10 @@
   -->
   
   <div>
-  <p>I'm a senior at the University of Wisconsin-Madison majoring in Computer Science. I enjoy working on unique projects and learning new things, and I have a wide range of professional, personal, and academic experiences. I'm looking to expand my skillset and gain more professional experience to start my career as an aspiring Software Engineer.
+  <p>I'm a software engineer working at Epsilon specializing in full stack development. I majored in Computer Science at the University of Wisconsin-Madison, and I enjoy working on unique projects and learning new things in my free time.
   </p>
     
-  <p>I'm currently working on a real time physics engine for 2D particle simulation 💥<br>Feel free to take a look at it along with my other projects below!</p>
+  <p>I'm currently working on a real time physics engine for 2D particle simulation 💥 in C!<br>Feel free to take a look at it along with my other projects below!</p>
   
   
   - 💬 Connect with me on <a href = "https://www.linkedin.com/in/jibran-fakhruddin/">Linkedin</a>.
